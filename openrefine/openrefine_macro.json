@@ -1,4 +1,4 @@
-[
+[A new change to your Open Refine file
   {
     "op": "core/multivalued-cell-split",
     "description": "Split multi-valued cells in column Authors",
