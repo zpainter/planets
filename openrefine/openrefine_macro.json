@@ -1,4 +1,4 @@
-[
+[A new change to your Open Refine file
   {
     "op": "core/multivalued-cell-split",
     "description": "Split multi-valued cells in column Authors",
@@ -6,7 +6,7 @@
     "keyColumnName": "Title",
     "mode": "separator",
     "separator": "|",
-    "regex": false
+    "regex": true
   },
   {
     "op": "core/multivalued-cell-join",
@@ -451,5 +451,4 @@
     "shareNewTopics": true
   }
 ]
-
-#comment
+don't stop
