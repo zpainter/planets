@@ -6,7 +6,7 @@
     "keyColumnName": "Title",
     "mode": "separator",
     "separator": "|",
-    "regex": false
+    "regex": true
   },
   {
     "op": "core/multivalued-cell-join",
